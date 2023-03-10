@@ -7,3 +7,9 @@
 
 ## 2. ejemplos de hadoop/spark
 [hadoop_spark](hadoop_spark)
+
+## 3. labs2 para preparación de texto
+[text-prep](text-prep)
+
+## 4. labs3 para mineria de texto
+[text-mining](text-mining)
